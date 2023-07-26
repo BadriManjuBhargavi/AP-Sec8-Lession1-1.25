@@ -1,0 +1,8 @@
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Recursion-Sec8-Lsn1-1.25\Recursion-Sec8-Lsn1-1.25\bin\Debug\Recursion-Sec8-Lsn1-1.25.exe.config
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Recursion-Sec8-Lsn1-1.25\Recursion-Sec8-Lsn1-1.25\bin\Debug\Recursion-Sec8-Lsn1-1.25.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Recursion-Sec8-Lsn1-1.25\Recursion-Sec8-Lsn1-1.25\bin\Debug\Recursion-Sec8-Lsn1-1.25.pdb
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Recursion-Sec8-Lsn1-1.25\Recursion-Sec8-Lsn1-1.25\obj\Debug\Recursion-Sec8-Lsn1-1.25.csproj.AssemblyReference.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Recursion-Sec8-Lsn1-1.25\Recursion-Sec8-Lsn1-1.25\obj\Debug\Recursion-Sec8-Lsn1-1.25.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Recursion-Sec8-Lsn1-1.25\Recursion-Sec8-Lsn1-1.25\obj\Debug\Recursion-Sec8-Lsn1-1.25.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Recursion-Sec8-Lsn1-1.25\Recursion-Sec8-Lsn1-1.25\obj\Debug\Recursion-Sec8-Lsn1-1.25.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\Recursion-Sec8-Lsn1-1.25\Recursion-Sec8-Lsn1-1.25\obj\Debug\Recursion-Sec8-Lsn1-1.25.pdb
